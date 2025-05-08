@@ -1,5 +1,9 @@
 {
   "projects": {
-    "default": "talkboard-7aea5"
-  }
+    "default": "talkboard-dev-f6800",
+    "prod": "talkboard-7aea5",
+    "dev": "talkboard-dev-f6800"
+  },
+  "targets": {},
+  "etags": {}
 }
